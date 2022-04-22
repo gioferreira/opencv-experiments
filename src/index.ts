@@ -6,3 +6,5 @@ document.getElementById("app").innerHTML = `
   <p>
   Load an image, display it on canvas1, detect countours, detect squares.
 </div>`;
+
+
